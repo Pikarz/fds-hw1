@@ -2,7 +2,7 @@
 
 # Overview
 
-This group project is the first homework in Image Processing, covering fundamental techniques in image filtering, edge detection, object identification, and performance evaluation. We implemented several algorithms, analyzed results, and documented observations in a Jupyter Notebook.
+This group project is the first homework in Image Processing, covering fundamental techniques in image filtering, edge detection, object identification, and performance evaluation. We implemented several algorithms, analyzed results, and documented observations.
 
 
 **Outline**
